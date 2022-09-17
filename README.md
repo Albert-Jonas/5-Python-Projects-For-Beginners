@@ -2,3 +2,5 @@
 
 Első commit tartalma
 Saját commit 2
+
+Fejlesztünk valamit
